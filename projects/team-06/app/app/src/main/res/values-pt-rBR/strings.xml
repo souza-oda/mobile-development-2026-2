@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">mapa_teste</string>
@@ -5,4 +6,13 @@
     <string name="email_hint">E-mail</string>
     <string name="password_hint">Senha</string>
     <string name="login_button">Entrar</string>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mapa_teste</string>
+    <string name="login_title">Caramelo Transportes</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+>>>>>>> Stashed changes
 </resources>
